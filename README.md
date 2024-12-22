@@ -1,4 +1,3 @@
-Here's the updated README with your name:  
 
 ```markdown
 # Jarvis - AI Voice Assistant 🎙️  
